@@ -1,0 +1,13 @@
+C:\Users\Laura\Documents\Visual Studio 2017\Projects\Protótipo\Protótipo\bin\Debug\Protótipo.exe.config
+C:\Users\Laura\Documents\Visual Studio 2017\Projects\Protótipo\Protótipo\bin\Debug\Protótipo.exe
+C:\Users\Laura\Documents\Visual Studio 2017\Projects\Protótipo\Protótipo\bin\Debug\Protótipo.pdb
+C:\Users\Laura\Documents\Visual Studio 2017\Projects\Protótipo\Protótipo\obj\Debug\Protótipo.csprojAssemblyReference.cache
+C:\Users\Laura\Documents\Visual Studio 2017\Projects\Protótipo\Protótipo\obj\Debug\Protótipo.frmCadastro.resources
+C:\Users\Laura\Documents\Visual Studio 2017\Projects\Protótipo\Protótipo\obj\Debug\Protótipo.Cadastro_Unidade.resources
+C:\Users\Laura\Documents\Visual Studio 2017\Projects\Protótipo\Protótipo\obj\Debug\Protótipo.Properties.Resources.resources
+C:\Users\Laura\Documents\Visual Studio 2017\Projects\Protótipo\Protótipo\obj\Debug\Protótipo.csproj.GenerateResource.cache
+C:\Users\Laura\Documents\Visual Studio 2017\Projects\Protótipo\Protótipo\obj\Debug\Protótipo.csproj.CoreCompileInputs.cache
+C:\Users\Laura\Documents\Visual Studio 2017\Projects\Protótipo\Protótipo\obj\Debug\Protótipo.exe
+C:\Users\Laura\Documents\Visual Studio 2017\Projects\Protótipo\Protótipo\obj\Debug\Protótipo.pdb
+C:\Users\Laura\Documents\Visual Studio 2017\Projects\Protótipo\Protótipo\obj\Debug\Protótipo.frmConsulta.resources
+C:\Users\Laura\Documents\Visual Studio 2017\Projects\Protótipo\Protótipo\obj\Debug\Protótipo.frmIndex.resources
